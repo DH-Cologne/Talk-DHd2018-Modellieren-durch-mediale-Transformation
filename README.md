@@ -4,4 +4,4 @@
 
 Dr. Jan G. Wieners | MA Zoe Schubert | Prof. Dr. Øyvind Eide
 
-(assets/img/screenshot.jpg)
+![](assets/img/screenshot.jpg)
